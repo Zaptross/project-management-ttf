@@ -1,0 +1,10 @@
+.flex {
+    display: flex;
+}
+
+.canvas-space {
+    background-color: aqua;
+    margin: auto 0;
+    width: 90%;
+    height: 50%;
+}
